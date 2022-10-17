@@ -47,7 +47,7 @@ export default function App() {
         onChange={onChange}
         />
       )}
-      <StatusBar style="auto" />
+      <StatusBar style="light" backgroundColor="black"/>
       </ImageBackground>
     </View>
   );
